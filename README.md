@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project investigates the impact of symmetric and optimal connectivity features of graphs on traffic load under random attacks. We analyze how different network structures affect traffic distribution in the event of random node failures.
+This project investigates the impact of symmetric and optimal connectivity features of graphs on traffic load under random attacks.  analyze how different network structures affect traffic distribution in the event of random node failures.
 
 ## Report
 
